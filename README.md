@@ -17,7 +17,7 @@ The goal is to understand store performance, revenue trends, peak sales periods,
 
 ## Dashboard Preview
 
-![Coffee Shop Sales Dashboard](dashboard/coffee_shop_dashboard.png)
+![Coffee Shop Sales Dashboard](coffee_shop_dashboard.png)
 
 
 ## Tools Used
