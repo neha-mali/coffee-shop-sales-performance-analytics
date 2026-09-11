@@ -15,6 +15,11 @@ The goal is to understand store performance, revenue trends, peak sales periods,
 - How does Average Order Value vary by location?
 - Where are the biggest upsell, cross-sell, and promotional opportunities?
 
+## Dashboard Preview
+
+![Coffee Shop Sales Dashboard](dashboard/coffee_shop_dashboard.png)
+
+
 ## Tools Used
 
 - **PostgreSQL / SQL**
@@ -110,11 +115,6 @@ The SQL analysis includes:
 - Revenue mix by location and category
 - Highest and lowest revenue days
 
-SQL file:
-
-```text
-sql/coffee_shop_analysis.sql
-```
 
 ## Python Analysis
 
@@ -128,11 +128,6 @@ Python was used to:
 - Create product Pareto analysis
 - Visualize daily revenue patterns
 
-Notebook:
-
-```text
-python/coffee_shop_analysis.ipynb
-```
 
 ## Power BI Dashboard
 
