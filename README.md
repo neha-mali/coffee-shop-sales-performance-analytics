@@ -153,21 +153,6 @@ The final dashboard includes:
 - Top 10 Products by Revenue
 - Date and Location filters
 
-## Repository Structure
-
-```text
-coffee-shop-sales-performance-analytics/
-│
-├── README.md
-├── sql/
-│   └── coffee_shop_analysis.sql
-├── python/
-│   └── coffee_shop_analysis.ipynb
-├── dashboard/
-│   └── coffee_shop_dashboard.png
-└── data/
-    └── README.md
-```
 
 ## Project Outcome
 
